@@ -21,6 +21,9 @@ See Mainpage
 #### Prizes:
 See Mainpage
 
+#### Sponsoring:
+See Mainpage
+
 ### RoboCup Germany - Soccer Junior
 #### Mainpage:
 [RoboCup Germany 2025](https://robocup.de/)
@@ -41,6 +44,9 @@ See Mainpage
 #### Prizes:
 See Mainpage
 
+#### Sponsoring:
+See Mainpage
+
 ### InformatiCup
 
 #### Mainpage:
@@ -59,6 +65,9 @@ See Mainpage
 See Mainpage
 
 #### Prizes:
+See Mainpage
+
+#### Sponsoring:
 See Mainpage
 
 #### Past competitions:

@@ -1,4 +1,4 @@
-# Competition (ChipCup 2025 ?)
+# Competition
 Planing of the upcoming microchip competition 
 
 ## Existing competitions
